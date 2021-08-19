@@ -94,7 +94,7 @@ GitHub: (https://github.com/ivany9)
 
        
   ##  HTML
-   ![html](https://user-images.githubusercontent.com/83906297/128635015-e50dc471-1a66-4c0e-a548-b744f5c3a14a.gif)
-     
+  
+  ![html](https://user-images.githubusercontent.com/83906297/130035339-9010eed1-c24d-461a-a8b3-39bbca1cb561.gif)
   
 
